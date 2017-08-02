@@ -16,4 +16,4 @@ discreteLearn() also takes:
   MazeBot will print a full run every n runs. N is stored in printFreq.
   The agent is an '@', walls are 'x', the three colors of paint are '.' (default), '*', and '-'.  Each run ends when the agent returns to his starting position.
   
-  MazeBot does not successfully learn a tree traversal, it just learns to immediately return to the start.  The agent paints the space he leaves and just moves to any adjacent painted space.
+  MazeBot does not successfully learn a tree traversal, it just learns to immediately return to the start.  The agent paints the space he leaves and then moves to any adjacent painted space.
