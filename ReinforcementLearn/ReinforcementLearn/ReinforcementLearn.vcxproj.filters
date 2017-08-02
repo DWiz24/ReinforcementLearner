@@ -33,6 +33,9 @@
     <ClInclude Include="IceWorld.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="MazeBot.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -48,6 +51,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="IceWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MazeBot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
