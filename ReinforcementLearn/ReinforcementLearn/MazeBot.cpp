@@ -4,7 +4,7 @@
 #include<iostream>
 #include<string>
 
-static long printFreq=100;
+static long printFreq=1;
 static long runs = 0;
 
 static const long rows = 13;

@@ -36,6 +36,12 @@
     <ClInclude Include="MazeBot.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="JetpackGame.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EvoSystems.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -54,6 +60,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="MazeBot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JetpackGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EvoSystems.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
