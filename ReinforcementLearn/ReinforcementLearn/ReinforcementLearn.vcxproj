@@ -148,6 +148,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DeepRL.h" />
     <ClInclude Include="EvoSystems.h" />
     <ClInclude Include="GridWorld.h" />
     <ClInclude Include="IceWorld.h" />
@@ -158,6 +159,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DeepRL.cpp" />
     <ClCompile Include="EvoSystems.cpp" />
     <ClCompile Include="GridWorld.cpp" />
     <ClCompile Include="IceWorld.cpp" />

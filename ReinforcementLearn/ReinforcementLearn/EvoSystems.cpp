@@ -10,7 +10,7 @@
 
 using std::vector;
 static long inputSize = visibleObstacles * 3 + 4;
-vector<long> netStructure = {inputSize, 20,20,3}; //number of neurons per hidden/output layer
+static vector<long> netStructure = {inputSize, 20,20,3}; //number of neurons per hidden/output layer
 static long numWeights=0; //calculated later
 static long trialsPerAgent = 8;
 static long printReward = 20;

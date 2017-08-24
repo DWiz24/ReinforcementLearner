@@ -11,7 +11,7 @@ long visibleObstacles = 1;
 static double ceiling = 500.0;
 static double obstacleDensity = 400.0;//lower is more obstacles
 
-static long displayFrequency = 1;
+static long displayFrequency = 100000;
 static long numGames = 0;
 static long maxGameLength = 4000;
 static long currentGameLength = 0;
